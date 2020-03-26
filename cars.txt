@@ -4,3 +4,5 @@ BMW X6
 Tesla
 Cadillac
 Lexus GX470
+Tesla
+Cadillac
